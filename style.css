@@ -1,0 +1,11 @@
+.titulo{
+    color: rgb(58, 16, 6);
+}
+body{
+    color: rgb(89, 12, 231);
+    font-size: 80px;
+    background-image: url(./descarga.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ }
